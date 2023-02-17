@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/bin/Debug/net7.0/AkkermanFunction
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/bin/Debug/net7.0/AkkermanFunction.deps.json
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/bin/Debug/net7.0/AkkermanFunction.runtimeconfig.json
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/bin/Debug/net7.0/AkkermanFunction.dll
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/bin/Debug/net7.0/AkkermanFunction.pdb
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/obj/Debug/net7.0/AkkermanFunction.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/obj/Debug/net7.0/AkkermanFunction.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/obj/Debug/net7.0/AkkermanFunction.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/obj/Debug/net7.0/AkkermanFunction.AssemblyInfo.cs
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/obj/Debug/net7.0/AkkermanFunction.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/obj/Debug/net7.0/AkkermanFunction.dll
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/obj/Debug/net7.0/refint/AkkermanFunction.dll
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/obj/Debug/net7.0/AkkermanFunction.pdb
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/obj/Debug/net7.0/AkkermanFunction.genruntimeconfig.cache
+/home/sneg/Documents/C#/Rekyrsia/AkkermanFunction/obj/Debug/net7.0/ref/AkkermanFunction.dll
